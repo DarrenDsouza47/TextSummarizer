@@ -32,3 +32,276 @@ Source-Age: 0
 
 ]
 [2024-05-06 12:04:48,046:INFO:main:>>>stage Data Ingestion stage completed<<<<<]
+[2024-05-10 15:08:56,290:INFO:main:>>>stage Data Ingestion stage started<<<<<]
+[2024-05-10 15:08:56,336:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:08:56,399:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:08:56,399:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:08:56,399:INFO:common:Created Directory at:artifacts/data_ingestion]
+[2024-05-10 15:09:04,622:INFO:data_ingestion:artifacts/data_ingestion/data.zip download! with following info 
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CE8A:3F2235:34D5FA:44047B:663DEB18
+Accept-Ranges: bytes
+Date: Fri, 10 May 2024 09:38:57 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100032-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1715333937.955861,VS0,VE727
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d82440cdeeaeaae9a1366efe4e28fed3a91bc9fa
+Expires: Fri, 10 May 2024 09:43:57 GMT
+Source-Age: 0
+
+]
+[2024-05-10 15:09:04,919:INFO:main:>>>stage Data Ingestion stage completed<<<<<]
+[2024-05-10 15:09:04,919:INFO:main:>>>stage Data Validation stage started<<<<<]
+[2024-05-10 15:09:04,919:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:09:04,919:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:09:04,919:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:09:04,919:INFO:common:Created Directory at:artifacts/data_validation]
+[2024-05-10 15:09:04,934:INFO:main:>>>stage Data Validation stage completed<<<<<]
+[2024-05-10 15:12:34,328:INFO:main:>>>stage Data Ingestion stage started<<<<<]
+[2024-05-10 15:12:34,328:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:12:34,328:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:12:34,328:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:12:34,328:INFO:common:Created Directory at:artifacts/data_ingestion]
+[2024-05-10 15:12:37,885:INFO:data_ingestion:artifacts/data_ingestion/data.zip download! with following info 
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CE8A:3F2235:34D5FA:44047B:663DEB18
+Accept-Ranges: bytes
+Date: Fri, 10 May 2024 09:42:34 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100021-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1715334155.587174,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8235f11d1c30a71b458f1bcb7813ac81562e9d0c
+Expires: Fri, 10 May 2024 09:47:34 GMT
+Source-Age: 217
+
+]
+[2024-05-10 15:12:38,088:INFO:main:>>>stage Data Ingestion stage completed<<<<<]
+[2024-05-10 15:12:38,088:INFO:main:>>>stage Data Validation stage started<<<<<]
+[2024-05-10 15:12:38,104:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:12:38,104:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:12:38,104:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:12:38,104:INFO:common:Created Directory at:artifacts/data_validation]
+[2024-05-10 15:12:38,104:INFO:main:>>>stage Data Validation stage completed<<<<<]
+[2024-05-10 15:17:10,728:INFO:main:>>>stage Data Ingestion stage started<<<<<]
+[2024-05-10 15:17:10,728:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:17:10,728:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:17:10,744:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:17:10,744:INFO:common:Created Directory at:artifacts/data_ingestion]
+[2024-05-10 15:17:17,964:INFO:data_ingestion:artifacts/data_ingestion/data.zip download! with following info 
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CE8A:3F2235:34D5FA:44047B:663DEB18
+Accept-Ranges: bytes
+Date: Fri, 10 May 2024 09:47:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100029-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1715334431.000552,VS0,VE271
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f59f438a38ecfc4af52ac07216d7a5c8b09085c3
+Expires: Fri, 10 May 2024 09:52:11 GMT
+Source-Age: 0
+
+]
+[2024-05-10 15:17:18,151:INFO:main:>>>stage Data Ingestion stage completed<<<<<]
+[2024-05-10 15:17:18,151:INFO:main:>>>stage Data Validation stage started<<<<<]
+[2024-05-10 15:17:18,151:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:17:18,167:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:17:18,167:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:17:18,167:INFO:common:Created Directory at:artifacts/data_validation]
+[2024-05-10 15:17:18,167:INFO:main:>>>stage Data Validation stage completed<<<<<]
+[2024-05-10 15:18:01,351:INFO:main:>>>stage Data Ingestion stage started<<<<<]
+[2024-05-10 15:18:01,351:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:18:01,351:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:18:01,351:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:18:01,351:INFO:common:Created Directory at:artifacts/data_ingestion]
+[2024-05-10 15:18:05,132:INFO:data_ingestion:artifacts/data_ingestion/data.zip download! with following info 
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CE8A:3F2235:34D5FA:44047B:663DEB18
+Accept-Ranges: bytes
+Date: Fri, 10 May 2024 09:48:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100020-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1715334481.257719,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a11932dc4f1628f2c668ac738c88c4db92da85ef
+Expires: Fri, 10 May 2024 09:53:01 GMT
+Source-Age: 50
+
+]
+[2024-05-10 15:18:05,544:INFO:main:>>>stage Data Ingestion stage completed<<<<<]
+[2024-05-10 15:18:05,545:INFO:main:>>>stage Data Validation stage started<<<<<]
+[2024-05-10 15:18:05,550:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:18:05,553:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:18:05,554:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:18:05,555:INFO:common:Created Directory at:artifacts/data_validation]
+[2024-05-10 15:18:05,560:INFO:main:>>>stage Data Validation stage completed<<<<<]
+[2024-05-10 15:18:43,038:INFO:main:>>>stage Data Ingestion stage started<<<<<]
+[2024-05-10 15:18:43,038:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:18:43,038:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:18:43,038:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:18:43,053:INFO:common:Created Directory at:artifacts/data_ingestion]
+[2024-05-10 15:18:56,835:INFO:data_ingestion:artifacts/data_ingestion/data.zip download! with following info 
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CE8A:3F2235:34D5FA:44047B:663DEB18
+Accept-Ranges: bytes
+Date: Fri, 10 May 2024 09:48:42 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100030-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1715334523.979938,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 091a00221a9fc63a5212fec7f8dddd246ffa71c4
+Expires: Fri, 10 May 2024 09:53:42 GMT
+Source-Age: 92
+
+]
+[2024-05-10 15:18:57,069:INFO:main:>>>stage Data Ingestion stage completed<<<<<]
+[2024-05-10 15:18:57,069:INFO:main:>>>stage Data Validation stage started<<<<<]
+[2024-05-10 15:18:57,085:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:18:57,085:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:18:57,085:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:18:57,085:INFO:common:Created Directory at:artifacts/data_validation]
+[2024-05-10 15:18:57,085:INFO:main:>>>stage Data Validation stage completed<<<<<]
+[2024-05-10 15:20:38,715:INFO:main:>>>stage Data Ingestion stage started<<<<<]
+[2024-05-10 15:20:38,730:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:20:38,730:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:20:38,730:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:20:38,730:INFO:common:Created Directory at:artifacts/data_ingestion]
+[2024-05-10 15:20:44,160:INFO:data_ingestion:artifacts/data_ingestion/data.zip download! with following info 
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CE8A:3F2235:34D5FA:44047B:663DEB18
+Accept-Ranges: bytes
+Date: Fri, 10 May 2024 09:50:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100029-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1715334639.441639,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9272c525244b02946f6cae4dd9621afaf57fe41e
+Expires: Fri, 10 May 2024 09:55:39 GMT
+Source-Age: 208
+
+]
+[2024-05-10 15:20:44,394:INFO:main:>>>stage Data Ingestion stage completed<<<<<]
+[2024-05-10 15:20:44,394:INFO:main:>>>stage Data Validation stage started<<<<<]
+[2024-05-10 15:20:44,394:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:20:44,394:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:20:44,394:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:20:44,394:INFO:common:Created Directory at:artifacts/data_validation]
+[2024-05-10 15:20:44,410:INFO:main:>>>stage Data Validation stage completed<<<<<]
+[2024-05-10 15:22:58,855:INFO:main:>>>stage Data Ingestion stage started<<<<<]
+[2024-05-10 15:22:58,855:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:22:58,871:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:22:58,871:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:22:58,871:INFO:common:Created Directory at:artifacts/data_ingestion]
+[2024-05-10 15:23:05,192:INFO:data_ingestion:artifacts/data_ingestion/data.zip download! with following info 
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CE8A:3F2235:34D5FA:44047B:663DEB18
+Accept-Ranges: bytes
+Date: Fri, 10 May 2024 09:52:59 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100032-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1715334779.180613,VS0,VE257
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: aebeef798b7997d303ca2797f2ecccdf0c69ddfa
+Expires: Fri, 10 May 2024 09:57:59 GMT
+Source-Age: 0
+
+]
+[2024-05-10 15:23:05,411:INFO:main:>>>stage Data Ingestion stage completed<<<<<]
+[2024-05-10 15:23:05,411:INFO:main:>>>stage Data Validation stage started<<<<<]
+[2024-05-10 15:23:05,411:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-05-10 15:23:05,411:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-05-10 15:23:05,411:INFO:common:Created Directory at:artifacts]
+[2024-05-10 15:23:05,411:INFO:common:Created Directory at:artifacts/data_validation]
+[2024-05-10 15:23:05,411:INFO:main:>>>stage Data Validation stage completed<<<<<]
